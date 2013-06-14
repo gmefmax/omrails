@@ -7,6 +7,7 @@
       <change type="DELETED" beforePath="C:\Sites\code\myapp\config.ru" afterPath="" />
       <change type="DELETED" beforePath="C:\Sites\code\myapp\public\favicon.ico" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="omrails.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,7 +55,7 @@
       <file leaf-file-name="user.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/models/user.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="3" selection-start="293" selection-end="293" vertical-scroll-proportion="0.390625">
+            <state line="6" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.390625">
               <folding />
             </state>
           </provider>
@@ -886,7 +887,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/user.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="3" selection-start="293" selection-end="293" vertical-scroll-proportion="0.390625">
+        <state line="6" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.390625">
           <folding />
         </state>
       </provider>
