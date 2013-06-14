@@ -5,6 +5,7 @@ gem 'jquery-rails'
 gem 'therubyracer', :platforms => :ruby
 gem 'devise'
 gem 'simple_form'
+gem "paperclip", "~> 3.0"
 
 
 
